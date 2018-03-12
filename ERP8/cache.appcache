@@ -1,0 +1,39 @@
+CACHE MANIFEST
+#al recargar la pagina se carga la estructura
+
+index.html
+css.css
+
+#cachear las imagenes para que su carga sea mas rapida
+CACHE:
+images/pc1.jpg
+images/pc2.jpg
+images/pc3.jpg
+images/pc4.jpg
+images/pc5.jpg
+images/sp1.jpg
+images/sp2.jpg
+images/sp3.jpg
+images/sp4.jpg
+images/tv1-49.jpg
+images/tv2-32.jpg
+images/tv3-32.jpg
+images/tv4-32.jpg
+images/tv5-28.jpg
+images/tv6-24.jpg
+
+
+#Usa bootstrap externo
+
+NETWORK:
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+
+FALLBACK:
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+
+
+

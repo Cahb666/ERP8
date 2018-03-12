@@ -1,0 +1,4 @@
+index.html
+	-linea 2 (comentada): cache, se carga la estructura de la pagina al recargarla
+
+-indexeddb: tarda en cargar los datos y operaciones, recargar con f12 varias veces
